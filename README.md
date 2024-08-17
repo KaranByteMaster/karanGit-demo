@@ -1,4 +1,4 @@
 # karanGit-demo
 This is my first Git Repository.
 <br>
-Author - Karan Verma
+Author - Karan Verma(CSE)
